@@ -4,7 +4,7 @@
 Created a TicTacToe game to leverage and practice my understanding of functions. This was the first project that was part of the udemy python bootcamp course by Jose Portilla: [Complete Python Bootcamp](https://www.udemy.com/course/complete-python-bootcamp/)
 
 ## Setup
- Welcome to BlackJack\
+ Welcome to TicTacToe\
 \
 Before you run the game are sure that you have a Python environment installed on your system.\
 \
